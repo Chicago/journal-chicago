@@ -1,5 +1,5 @@
-journal-chicago-rmarkdown
-=========================
+journal-chicago
+===============
 
 An "[RMarkdown](http://rmarkdown.rstudio.com/) HTML theme" for a bootstrapped, modern, clean interface intended for technical writings. This design is a modification of the [Bootswatch Journal](http://bootswatch.com/journal/) theme included in RMarkdown.
 
@@ -45,4 +45,4 @@ The stylesheet can be used for other purposes, but this repository will be tuned
 
 ## License
 
-This project is licensed under Apache License 2.0. See LICENSE for more information.
+This project is licensed under Apache License 2.0. See [LICENSE](LICENSE) for more information.
